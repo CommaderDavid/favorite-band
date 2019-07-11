@@ -1,0 +1,10 @@
+.sidebar {
+  width: 50%;
+  float: right;
+  background-color: #3e3e28;
+  color: #ffffff;
+}
+
+.sid-mar {
+  margin: 7px 0 5px 15px;
+}
