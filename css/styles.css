@@ -13,16 +13,19 @@
 }
 
 .one {
+  padding: 5px;
   width: 300px;
   float: left;
 }
 
 .two {
+  padding: 5px;
   width: 400px;
   float: right;
 }
 
 .three {
+  padding: 5px;
   width: 550px;
   float: left;
 }
