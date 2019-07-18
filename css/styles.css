@@ -52,3 +52,23 @@ body {
   background-color: #331a00;
   color: #e6e6e6;
 }
+
+@media screen and (max-width: 1000px) {
+  p.main {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  p.main {
+    font-size: 20px;
+  }
+
+  .two {
+    width: 300px;
+  }
+
+  .three {
+    width: 300px;
+  }
+}
